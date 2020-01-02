@@ -12,5 +12,4 @@ $stack = array($rectangle, $square, $triangle);
 foreach ($stack as $figure => $f) {
   echo get_class($f) . ' perimeter: ' . $f->getPerimeter() . '<br/>';
 }
-
 ?>
