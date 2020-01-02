@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2a448e-9b58-4fa2-8cde-faa58f849b6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1VpiD8L5U0HaSwl41xdZGx132gf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2a448e-9b58-4fa2-8cde-faa58f849b6d" name="Default Changelist" comment="" />
+      <created>1577952602429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577952602429</updated>
+      <workItem from="1577952608384" duration="1095000" />
+      <workItem from="1577956317321" duration="2904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="187" width="806" height="676" key="#Notifications" timestamp="1577952624681">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="187" width="806" height="676" key="#Notifications/0.0.1920.1053@0.0.1920.1053" timestamp="1577952624681" />
+    <state x="441" y="202" width="806" height="676" key="#PHP" timestamp="1577952790781">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="441" y="202" width="806" height="676" key="#PHP/0.0.1920.1053@0.0.1920.1053" timestamp="1577952790781" />
+    <state x="654" y="260" width="413" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1577953370567">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="654" y="260" width="413" height="561" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1577953370567" />
+    <state x="753" y="342" width="409" height="367" key="NewPhpClassDialog" timestamp="1577953340365">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="753" y="342" width="409" height="367" key="NewPhpClassDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1577953340365" />
+    <state x="780" y="452" width="355" height="147" key="NewPhpFileDialog" timestamp="1577953410649">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="780" y="452" width="355" height="147" key="NewPhpFileDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1577953410649" />
+    <state x="653" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1577956320956">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="653" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1577956320956" />
+    <state x="509" y="260" width="672" height="678" key="search.everywhere.popup" timestamp="1577956964163">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="509" y="260" width="672" height="678" key="search.everywhere.popup/0.0.1920.1053@0.0.1920.1053" timestamp="1577956964163" />
+  </component>
+</project>
