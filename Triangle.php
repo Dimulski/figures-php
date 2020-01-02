@@ -25,6 +25,4 @@ class Triangle implements Figure
   {
     return $this->a * 3;
   }
-
-
 }
