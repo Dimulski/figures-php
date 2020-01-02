@@ -3,5 +3,5 @@
 
 interface Figure
 {
-  public function getPerimeter();
+  function getPerimeter();
 }

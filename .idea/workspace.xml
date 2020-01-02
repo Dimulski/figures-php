@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1d2a448e-9b58-4fa2-8cde-faa58f849b6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure.php" beforeDir="false" afterPath="$PROJECT_DIR$/Figure.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Square.php" beforeDir="false" afterPath="$PROJECT_DIR$/Square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Triangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Triangle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +32,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,6 +64,7 @@
       <updated>1577952602429</updated>
       <workItem from="1577952608384" duration="1095000" />
       <workItem from="1577956317321" duration="3720000" />
+      <workItem from="1577986201430" duration="1986000" />
     </task>
     <servers />
   </component>
@@ -64,14 +76,20 @@
       <screen x="0" y="0" width="1920" height="1053" />
     </state>
     <state x="555" y="187" width="806" height="676" key="#Notifications/0.0.1920.1053@0.0.1920.1053" timestamp="1577952624681" />
-    <state x="441" y="202" width="806" height="676" key="#PHP" timestamp="1577952790781">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="543" y="134" width="605" height="574" key="#PHP" timestamp="1577987389517">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="543" y="134" width="605" height="574" key="#PHP/0.0.1440.860@0.0.1440.860" timestamp="1577987389517" />
     <state x="441" y="202" width="806" height="676" key="#PHP/0.0.1920.1053@0.0.1920.1053" timestamp="1577952790781" />
-    <state x="654" y="260" width="413" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1577953370567">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="491" y="212" width="413" height="561" key="#com.intellij.ide.util.MemberChooser" timestamp="1577987861831">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
+    <state x="491" y="212" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1577987861831" />
     <state x="654" y="260" width="413" height="561" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1577953370567" />
+    <state x="500" y="189" key="FileChooserDialogImpl" timestamp="1577986984332">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="189" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1577986984332" />
     <state x="753" y="342" width="409" height="367" key="NewPhpClassDialog" timestamp="1577953340365">
       <screen x="0" y="0" width="1920" height="1053" />
     </state>

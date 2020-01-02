@@ -3,7 +3,6 @@
 
 class Rectangle implements Figure
 {
-
   private $a;
   private $b;
 
